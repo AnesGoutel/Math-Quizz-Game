@@ -30,26 +30,26 @@ This project is a console-based math quiz game implemented in C++. It allows use
 
 * Choose a difficulty level:
 
-1: Easy
+   1: Easy
 
-2: Medium
+   2: Medium
 
-3: Hard
-
-4: Mixed
+   3: Hard
+  
+   4: Mixed
 
 
 * Choose an arithmetic operation:
 
-1: Addition (+)
+   1: Addition (+)
 
-2: Subtraction (-)
+   2: Subtraction (-)
 
-3: Multiplication (x)
+   3: Multiplication (x)
 
-4: Division (/)
+   4: Division (/)
 
-5: Mixed operations
+   5: Mixed operations
 
 
 * Answer each question displayed on the screen.
@@ -59,5 +59,28 @@ This project is a console-based math quiz game implemented in C++. It allows use
 * View final results at the end of the quiz.
 
 * Play again or exit.
+
+
+## Code Structure :
+
+enum enQuestionsLevel: Defines difficulty levels.
+
+enum enOperationType: Defines arithmetic operations.
+
+struct stQuestion: Represents a single question.
+
+struct stQuizz: Manages the entire quiz session.
+
+GenerateQuizzQuestions(): Generates a set of random math questions.
+
+PrintTheQuestion(): Displays a question.
+
+CorrectTheQuestionAnswer(): Checks user input.
+
+PrintQuizzResults(): Displays the final score.
+
+PlayMathGame(): Main game logic.
+
+StartGame(): Runs the game loop.
 
 
