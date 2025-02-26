@@ -15,9 +15,9 @@
 * Option to Replay: Players can restart the game after completing a quiz.
 
 
-    How to Play
+     How to Play
 
-Select the number of questions (between 1 and 10).
+* Select the number of questions (between 1 and 10).
 
 * Choose a difficulty level:
 
