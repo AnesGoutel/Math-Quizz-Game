@@ -1,21 +1,30 @@
-# Features : 
+# Math Quiz Game
 
-* Multiple Difficulty Levels: Easy, Medium, Hard, and Mixed.
+## Overview
 
-* Different Arithmetic Operations: Addition, Subtraction, Multiplication, Division, and Mixed mode.
+This project is a console-based math quiz game implemented in C++. It allows users to test their arithmetic skills by answering randomly generated math questions. The game provides different difficulty levels and arithmetic operations to challenge players.
 
-* Randomized Questions: Each quiz generates unique math problems.
 
-* Answer Validation: The program checks user input and provides immediate feedback.
 
-* Color-coded Feedback: Green screen for correct answers and red for incorrect ones.
 
-* Final Score Display: Shows the number of correct and incorrect answers with a pass/fail status.
+## Features : 
+
+- Multiple Difficulty Levels: Easy, Medium, Hard, and Mixed.
+
+- Different Arithmetic Operations: Addition, Subtraction, Multiplication, Division, and Mixed mode.
+
+- Randomized Questions: Each quiz generates unique math problems.
+
+- Answer Validation: The program checks user input and provides immediate feedback.
+
+- Color-coded Feedback: Green screen for correct answers and red for incorrect ones.
+
+- Final Score Display: Shows the number of correct and incorrect answers with a pass/fail status.
 
 * Option to Replay: Players can restart the game after completing a quiz.
 
 
-# How to Play :
+## How to Play :
 
 * Select the number of questions (between 1 and 10).
 
