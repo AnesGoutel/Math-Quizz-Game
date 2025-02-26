@@ -1,4 +1,4 @@
-    Features
+# Features : 
 
 * Multiple Difficulty Levels: Easy, Medium, Hard, and Mixed.
 
@@ -15,7 +15,7 @@
 * Option to Replay: Players can restart the game after completing a quiz.
 
 
-     How to Play
+# How to Play :
 
 * Select the number of questions (between 1 and 10).
 
